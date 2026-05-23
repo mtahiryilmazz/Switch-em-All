@@ -1,0 +1,8 @@
+[
+  {
+    "name": "THZoria NX-Firmware",
+    "type": "github-releases",
+    "repo": "THZoria/NX_Firmware",
+    "enabled": true
+  }
+]
