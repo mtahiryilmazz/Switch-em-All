@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Citron Neo",
+    "path": "D:/NSEmu/CitronNeo",
+    "installed_version": "05e71276f",
+    "latest_version": "05e71276f",
+    "last_update": "2026-05-23 11:46",
+    "latest_raw": {
+      "version": "05e71276f",
+      "download_url": "https://github.com/citron-neo/CI/releases/download/nightly-windows/Citron-windows-nightly-05e71276f-x64-clangtron.zip",
+      "file_name": "Citron-windows-nightly-05e71276f-x64-clangtron.zip",
+      "page_url": "https://github.com/citron-neo/CI/releases/tag/nightly-windows",
+      "source": {
+        "name": "Citron Neo",
+        "type": "github-releases",
+        "repo": "citron-neo/CI",
+        "enabled": true
+      }
+    }
+  },
+  {
+    "name": "Eden (Nightly)",
+    "path": "D:/NSEmu/Eden",
+    "installed_version": "v1779562696.d761ecba8c",
+    "latest_version": "v1779562696.d761ecba8c",
+    "last_update": "2026-05-24 00:27",
+    "latest_raw": {
+      "version": "v1779562696.d761ecba8c",
+      "download_url": "https://nightly.eden-emu.dev/v1779562696.d761ecba8c/Eden-Windows-d761ecba8c-amd64-clang-pgo.zip",
+      "file_name": "Eden-Windows-d761ecba8c-amd64-clang-pgo.zip",
+      "page_url": "https://git.eden-emu.dev/eden-ci/nightly/releases/tag/v1779562696.d761ecba8c",
+      "source": {
+        "name": "Eden (Nightly)",
+        "type": "gitea-releases",
+        "domain": "git.eden-emu.dev",
+        "repo": "eden-ci/nightly",
+        "enabled": true
+      }
+    }
+  },
+  {
+    "name": "Ryujinx",
+    "path": "D:/NSEmu/Ryujinx",
+    "installed_version": "1.3.3",
+    "latest_version": "1.3.3",
+    "last_update": "",
+    "latest_raw": {
+      "version": "1.3.3",
+      "download_url": "https://git.ryujinx.app/projects/Ryubing/releases/download/1.3.3/ryujinx-1.3.3-win_x64.zip",
+      "file_name": "ryujinx-1.3.3-win_x64.zip",
+      "page_url": "https://git.ryujinx.app/projects/Ryubing/releases/tag/1.3.3",
+      "source": {
+        "name": "Ryubing",
+        "type": "gitea-releases",
+        "domain": "git.ryujinx.app",
+        "repo": "projects/Ryubing",
+        "enabled": true
+      }
+    }
+  }
+]
