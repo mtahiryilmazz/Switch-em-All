@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Yerel Keys Yedekleri",
+    "type": "local-files",
+    "path": "config/keys",
+    "enabled": true,
+    "note": "Kendi cihazınızdan dump ettiğiniz prod.keys/title.keys dosyalarını bu klasöre koyun."
+  },
+  {
+    "name": "LetSwitch Site Keys",
+    "type": "manual-page",
+    "url": "https://letswitch.site/",
+    "enabled": true
+  },
+  {
+    "name": "SwitchKeys.io Keys",
+    "type": "manual-page",
+    "url": "https://switchkeys.io/switch-prod-keys-download/",
+    "enabled": true
+  },
+  {
+    "name": "ProdKeys.io Keys",
+    "type": "manual-page",
+    "url": "https://prodkeys.io/yuzu-keys-download/",
+    "enabled": true
+  }
+]
