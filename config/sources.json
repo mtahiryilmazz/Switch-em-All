@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Citron Neo",
+    "type": "github-releases",
+    "repo": "citron-neo/CI",
+    "enabled": true
+  },
+  {
+    "name": "Eden (Nightly)",
+    "type": "gitea-releases",
+    "domain": "git.eden-emu.dev",
+    "repo": "eden-ci/nightly",
+    "enabled": true
+  },
+  {
+    "name": "Ryubing",
+    "type": "gitea-releases",
+    "domain": "git.ryujinx.app",
+    "repo": "projects/Ryubing",
+    "enabled": true
+  }
+]
